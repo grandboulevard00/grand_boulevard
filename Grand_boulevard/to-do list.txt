@@ -1,0 +1,3 @@
+-terminar panaderia.html
+-optimizar JPGs
+-hosteaer
